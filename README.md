@@ -3,6 +3,8 @@
 
 ## • _Tech Enthusiastic_ • _Innovator_ • _Developer_
 
+![](https://komarev.com/ghpvc/?username=kudtarkarSahil-15&color=green)
+
 <!-- - 🔭 -->
 
 <!-- - 🌱 I’m currently exploring **MERN Stack Development** -->
